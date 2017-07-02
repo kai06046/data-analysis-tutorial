@@ -1,5 +1,5 @@
 # data-analysis-tutorial
-A jupyter notebook data analysis application.
+A jupyter notebook data analysis application on [UCI Adults dataset](http://archive.ics.uci.edu/ml/datasets/Adult).
 
 ## Version and Dependencies
 * [Anaconda 4.2](https://www.continuum.io/downloads)
