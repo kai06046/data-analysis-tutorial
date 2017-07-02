@@ -7,6 +7,7 @@ A jupyter notebook data analysis application.
 * Python 3.5.2 
 * XGBoost
   * Can easily install if you use anaconda `conda install -c anaconda py-xgboost=0.60`
+  * Or follow [this](https://github.com/kai06046/data-analysis-tutorial/blob/master/data-analysis-on-UCI.ipynb) if you are using Windows.
 
 ## Usage description
 Open [data-analysis-on-UCI](https://github.com/kai06046/data-analysis-tutorial/blob/master/data-analysis-on-UCI.ipynb) in github or download the file and run the script in your local.
