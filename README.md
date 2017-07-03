@@ -8,6 +8,8 @@ A jupyter notebook data analysis application on [UCI Adults dataset](http://arch
 * XGBoost
   * Can easily install if you use anaconda, just type `conda install -c anaconda py-xgboost=0.60`
   * Or follow [this](https://github.com/kai06046/data-analysis-tutorial/blob/master/data-analysis-on-UCI.ipynb) if you are using Windows.
+* Seaborn
+  * `pip install seaborn` 
 
 ## Description
 Follow [data-analysis-on-UCI](https://github.com/kai06046/data-analysis-tutorial/blob/master/data-analysis-on-UCI.ipynb) to develop your application or clone this repository by `git clone https://github.com/kai06046/data-analysis-tutorial` and run the script or start coding in your local.
